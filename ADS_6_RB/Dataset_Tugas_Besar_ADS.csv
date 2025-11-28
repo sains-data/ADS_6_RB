@@ -1,0 +1,134 @@
+﻿NIM;Program Studi :;IPK Terakhir :;Median Pendapatan Orang Tua (Rupiah) :;Median Uang Saku (Rupiah) :;Median dari Jarak rumah dari kampus ITERA (Km) :;Keterlibatan Organisai;D_Akademik;D_Kemahasiswaan;D_Lainnya;Akses Internet (yang paling sering digunakan);D_Wifi;D_Kampus;D_Lainnya
+1;Sains Data;4;500000;750000;0,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+3;Sains Data;3,43;500000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+4;Sains Data;3,86;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+5;Sains Data;3,97;8000000;1250000;1,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+6;Sains Data;3,35;2000000;750000;0,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+7;Sains Data;3,06;4000000;1250000;5,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+8;Sains Data;2,78;4000000;1250000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+10;Sains Data;3,15;500000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Fasilitas Kampus;0;1;0
+11;Sains Data;3,43;6000000;750000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+12;Sains Data;3,07;4000000;750000;2,5;Tidak Aktif;0;0;0;Fasilitas Kampus;0;1;0
+13;Sains Data;2,89;2000000;1250000;1,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+14;Sains Data;3,26;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+15;Sains Data;4;6000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+16;Sains Data;4;2000000;750000;0,5;Tidak Aktif;0;0;0;Fasilitas Kampus;0;1;0
+17;Sains Data;2,85;2000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+18;Sains Data;3;8000000;1250000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+19;Sains Data;3;8000000;1250000;5,5;Lainnya;0;0;1;Wi-Fi pribadi;1;0;0
+26;Sains Data;3,03;4000000;750000;5,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+27;Sains Data;3,49;2000000;750000;1,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+29;Sains Data;3,89;2000000;1250000;5,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+30;Sains Data;3,68;2000000;750000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+44;Sains Data;3,78;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+45;Sains Data;3,03;500000;750000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+46;Sains Data;3,47;2000000;750000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+48;Sains Data;3,37;2000000;750000;2,5;Lainnya;0;0;1;Fasilitas Kampus;0;1;0
+51;Sains Data;3,2;8000000;1250000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+53;Sains Data;3,51;6000000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+64;Sains Data;3,31;6000000;750000;1,5;Lainnya;0;0;1;Wi-Fi pribadi;1;0;0
+66;Sains Data;3,14;500000;750000;0,5;Lainnya;0;0;1;Wi-Fi pribadi;1;0;0
+69;Sains Data;3,22;2000000;750000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+76;Sains Data;2,61;4000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+77;Sains Data;3,29;2000000;750000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+78;Sains Data;3,5;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+80;Sains Data;3,79;2000000;1250000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+81;Sains Data;3,36;2000000;750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+82;Sains Data;3,35;4000000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+84;Sains Data;3,79;4000000;750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+85;Sains Data;3,38;2000000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+88;Sains Data;4;2000000;1250000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+89;Sains Data;3,2;4000000;1250000;2,5;Lainnya;0;0;1;Wi-Fi pribadi;1;0;0
+90;Sains Data;3,58;6000000;1250000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+92;Sains Data;3,83;6000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+93;Sains Data;3,81;6000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+94;Sains Data;2,95;10000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+95;Sains Data;3,81;2000000;1250000;0,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+98;Sains Data;3,07;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+99;Sains Data;3,38;2000000;1250000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Fasilitas Kampus;0;1;0
+100;Sains Data;2,73;10000000;750000;5,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+105;Sains Data;3,47;2000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+106;Sains Data;3,31;500000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+112;Sains Data;3,54;4000000;1250000;1,5;Tidak Aktif;0;0;0;Lainnya;0;0;1
+113;Sains Data;3,5;500000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+114;Sains Data;3,1;2000000;750000;5,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+118;Sains Data;3,75;2000000;1750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+123;Sains Data;3,25;500000;750000;1,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+125;Sains Data;3,24;6000000;1750000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+126;Sains Data;3,4;2000000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+128;Sains Data;3,13;500000;750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+134;Sains Data;3,44;4000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+136;Sains Data;3,2;500000;750000;1,5;Lainnya;0;0;1;Fasilitas Kampus;0;1;0
+137;Sains Data;3,78;4000000;750000;5,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+138;Sains Data;2,76;4000000;750000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+140;Sains Data;2,87;500000;1250000;0,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+145;Sains Data;3,5;4000000;1250000;0,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+148;Sains Data;3,42;8000000;1750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+153;Sains Data;3,6;8000000;1250000;1,5;Tidak Aktif;0;0;0;Fasilitas Kampus;0;1;0
+154;Sains Data;3,4;4000000;750000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+160;Sains Data;3,24;2000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+166;Sains Data;3,15;500000;1250000;1,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+172;Sains Data;2,77;6000000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+174;Sains Data;3,68;500000;750000;2,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+175;Sains Data;3,2;2000000;1250000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+176;Sains Data;3,86;10000000;1250000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+180;Sains Data;3,17;4000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+181;Sains Data;3,58;2000000;1250000;1,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+182;Sains Data;3;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+183;Sains Data;2,97;10000000;1750000;2,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+184;Sains Data;3,01;2000000;1250000;5,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+185;Sains Data;3,19;4000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+186;Sains Data;2,5;6000000;750000;5,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+187;Sains Data;3,38;4000000;1250000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+188;Sains Data;3,5;6000000;1750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+190;Sains Data;3,68;500000;1250000;0,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+192;Sains Data;3,49;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Fasilitas Kampus;0;1;0
+194;Sains Data;3;4000000;750000;2,5;Lainnya;0;0;1;Wi-Fi pribadi;1;0;0
+197;Sains Data;3,5;2000000;750000;1,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+200;Sains Data;3,97;6000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+202;Sains Data;3,7;10000000;750000;5,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+229;Sains Data;3,45;500000;750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Fasilitas Kampus;0;1;0
+230;Sains Data;2,83;6000000;1250000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+233;Sains Data;3,42;2000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+246;Sains Data;2,4;2000000;750000;5,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+259;Sains Data;2,78;4000000;750000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+260;Sains Data;3,74;6000000;1750000;0,5;Aktif kegiatan akademik;1;0;0;Fasilitas Kampus;0;1;0
+261;Sains Data;3,43;4000000;2250000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+262;Sains Data;3;4000000;1250000;3,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+264;Sains Data;3,6;8000000;1250000;1,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+265;Sains Data;3,64;500000;750000;0,5;Lainnya;0;0;1;Fasilitas Kampus;0;1;0
+266;Sains Data;3,89;500000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+270;Sains Data;3,33;6000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+271;Sains Data;3,72;4000000;1250000;2,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+272;Sains Data;3,07;4000000;1250000;3,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+273;Sains Data;3,67;6000000;750000;5,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+278;Sains Data;3,24;4000000;750000;2,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+279;Sains Data;3,26;2000000;750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Fasilitas Kampus;0;1;0
+281;Sains Data;3,07;2000000;750000;1,5;Aktif kegiatan akademik;1;0;0;Paket Data Seluler;0;0;0
+288;Sains Data;3,28;2000000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+292;Sains Data;3,58;4000000;750000;3,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+293;Sains Data;2,89;2000000;1750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+305;Sains Data;3,35;4000000;1750000;2,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+310;Sains Data;3,47;6000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+311;Sains Data;3,4;4000000;750000;2,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+320;Sains Data;3,79;4000000;1250000;2,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+322;Sains Data;3,69;2000000;750000;1,5;Aktif kegiatan akademik;1;0;0;Fasilitas Kampus;0;1;0
+348;Sains Data;3,22;500000;750000;2,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+349;Sains Data;3,95;6000000;2250000;1,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+351;Sains Data;3,01;2000000;750000;1,5;Lainnya;0;0;1;Fasilitas Kampus;0;1;0
+354;Sains Data;3,4;2000000;750000;5,5;Tidak Aktif;0;0;0;Wi-Fi pribadi;1;0;0
+358;Sains Data;3,26;4000000;1250000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+369;Sains Data;2,83;500000;750000;5,5;Lainnya;0;0;1;Paket Data Seluler;0;0;0
+371;Sains Data;3,31;500000;750000;5,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+378;Sains Data;3,2;6000000;1750000;2,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+381;Sains Data;2,88;4000000;750000;1,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
+383;Sains Data;3,67;6000000;1750000;1,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+385;Sains Data;3,06;2000000;750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+386;Sains Data;3,19;4000000;1750000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+390;Sains Data;3,59;4000000;750000;1,5;Aktif kegiatan akademik;1;0;0;Wi-Fi pribadi;1;0;0
+397;Sains Data;3,54;500000;750000;0,5;Lainnya;0;0;1;Lainnya;0;0;1
+398;Sains Data;3,4;10000000;1750000;0,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+404;Sains Data;3,43;4000000;1750000;3,5;Aktif organisasi kemahasiswaan;0;1;0;Paket Data Seluler;0;0;0
+408;Sains Data;2,9;4000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+420;Sains Data;3,25;8000000;750000;5,5;Aktif organisasi kemahasiswaan;0;1;0;Wi-Fi pribadi;1;0;0
+435;Sains Data;3,68;6000000;750000;2,5;Tidak Aktif;0;0;0;Paket Data Seluler;0;0;0
