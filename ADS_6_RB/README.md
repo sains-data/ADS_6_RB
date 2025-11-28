@@ -50,8 +50,17 @@ ggcorrplot = Membuat visualisasi Heatmap matriks korelasi
 ## Penjelasan Dataset
 
 ```text
-Dataset berisi data survei mahasiswa mengenai faktor sosial-ekonomi dan geografis untuk melihat pengaruhnya terhadap prestasi akademik (IPK).
+Dataset berisi data survei mahasiswa mengenai faktor sosial-ekonomi dan geografis
+untuk melihat pengaruhnya terhadap prestasi akademik (IPK).
 IPK	= Indeks Prestasi Kumulatif terakhir mahasiswa (Variabel Dependen / Y)
 Pendapatan_Ortu	= Median pendapatan orang tua dalam Rupiah (Variabel Independen / X1)
 Jarak	= Jarak tempat tinggal ke kampus dalam Km (Variabel Independen / X2)
 Wifi_Pribadi	= Status kepemilikan akses internet pribadi (Variabel Independen / X3, Dummy: 0/1)
+```
+
+Kelompok 6
+1. Bryan Paskah Telaumbanua (124450003)
+2. Haikal Seventino Tamba (124450012)
+3. Yollanda Agustina (124450024)
+4. Daffa Kharisma Adzana (124450061)
+```
